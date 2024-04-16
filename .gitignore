@@ -1,2 +1,5 @@
-poiemaweb_lecture/es6/.DS_Store
+dist
 node_modules
+*.log
+.DS_Store
+.vscode
